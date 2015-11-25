@@ -28,7 +28,12 @@ https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh
 6.Gmail like pull to refresh implementation.https://github.com/learnNcode/GmailLikePullToRefresh
 ![image](https://camo.githubusercontent.com/1d49229fc740c0752731cbd6067df93b84b30525/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f36313931393233322f6c6561726e4e636f64652f476d61696c4c696b6550756c6c546f526566726573682f676d61696c4c696b654c6f6164696e672e676966)
 
-7.
+7.仿Android联系人SideBar排序，根据拼音A-Z字母快速查找，以及输入搜索条件过滤，显示姓名的文字图片。              
+项目地址:https://github.com/finddreams/SortedContactUI          
+![image](https://camo.githubusercontent.com/de9713f2c95de7253e5b57c33827a25a04c53be7/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313530333235313631383033383637)
+
+
+8.
 
 
 
