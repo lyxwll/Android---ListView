@@ -41,7 +41,12 @@ https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh
 ![image](https://camo.githubusercontent.com/42de7e5e764d83afdc116fa3ba1ef423d2aefe4e/687474703a2f2f6931312e74696574756b752e636f6d2f333261623439616333383262376466642e676966)             
 
 
-10.
+10.Pull-to-Refresh.Rentals-Android提供一个简单可以自定义的下拉刷新实现，Yalantis 出品。            
+项目地址：https://github.com/Yalantis/Pull-to-Refresh.Rentals-Android             
+![image](https://camo.githubusercontent.com/d406ac5a03a2b1fa5cf41fadc8d2408cb8709bdc/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3132353035362f73637265656e73686f74732f313635303331372f7265616c6573746174652d70756c6c5f312d322d332e676966)          
+
+
+11.
 
 
 
