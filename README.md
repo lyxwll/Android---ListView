@@ -66,7 +66,15 @@ https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh
 ![image](https://i.imgur.com/IsuDF6g.gif)
 
 
-14.
+**14.Extract Word Demo For Android**                     
+这是一个，可以提取 英文单词 的 ListView Demo
+长按文章时，启动题词功能，含有 ”放大镜“ 功能，打开了手指触摸下的视角。
+长按，后可随意滑动，滑到那里，取到那里。松开后，便可获取，以选择的单词。
+项目地址:https://github.com/jcodeing/ExtractWordView         
+![image](https://raw.githubusercontent.com/jcodeing/ExtractWordView/master/lookme.gif)           
+
+
+**15.**
 
 
 
