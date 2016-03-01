@@ -74,7 +74,18 @@ https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh
 ![image](https://raw.githubusercontent.com/jcodeing/ExtractWordView/master/lookme.gif)           
 
 
-**15.**
+**15.WaterDropListView，just like the iOS**
+模仿 iOS 下拉刷新“水滴”效果，支持下拉刷新和上拉加载。
+项目地址:https://github.com/THEONE10211024/WaterDropListView              
+![image](https://github.com/THEONE10211024/WaterDropListView/blob/master/demo/demo.gif)             
+
+
+**16.PullSeparateListView:到顶部或底部时拉动，item分离效果。**
+项目地址:https://github.com/chiemy/PullSeparateListView                         
+![image](https://github.com/chiemy/PullSeparateListView/blob/master/capture.gif)                    
+
+
+**17.**
 
 
 
