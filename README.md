@@ -114,8 +114,7 @@ https://github.com/Yalantis/pull-to-make-soup
 https://github.com/liaoinstan/SpringView           
 
 
-**22.CalendarListview:Implementation of a calendar in a ListView. One month by row**     
-https://github.com/traex/CalendarListview                 
+**22.**     
 
 
 **23.**
