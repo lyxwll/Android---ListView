@@ -121,7 +121,11 @@ https://github.com/jiang111/IndexRecyclerView
 **23.a collection repository for repositories about recyclerView（RecyclerView大集合**       https://github.com/CameloeAnthony/Learning-RecyclerView    
 
 
-**24.**
+**24.全新的快速索引导航栏，联系人字母排序侧边栏。**     
+https://github.com/kongnanlive/SideBar     
+
+
+**25.**
 
 
 
