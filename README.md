@@ -132,7 +132,11 @@ https://github.com/kongnanlive/SideBar
 https://github.com/lyxwll/ExpandableRecyclerview    
 
 
-**26.**
+**26.RecyclerView snapping example with SnapHelper**      
+https://github.com/rubensousa/RecyclerViewSnap     
+
+
+**27.**
 
 
 
