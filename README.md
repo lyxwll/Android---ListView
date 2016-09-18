@@ -136,7 +136,11 @@ https://github.com/lyxwll/ExpandableRecyclerview
 https://github.com/rubensousa/RecyclerViewSnap     
 
 
-**27.**
+**27.带波动效果的索引侧边栏，支持左右手模式和自定义索引**         
+https://github.com/gjiazhe/WaveSideBar            
+
+
+**28.**
 
 
 
