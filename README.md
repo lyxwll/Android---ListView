@@ -140,7 +140,11 @@ https://github.com/rubensousa/RecyclerViewSnap
 https://github.com/gjiazhe/WaveSideBar            
 
 
-**28.**
+**28.视差效果的 Item 滑动变大**                       
+https://github.com/iielse/RetailMeNotList              
+
+
+**29.**
 
 
 
