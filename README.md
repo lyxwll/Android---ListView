@@ -127,22 +127,17 @@ https://github.com/jiang111/IndexRecyclerView
 **24.全新的快速索引导航栏，联系人字母排序侧边栏。**     
 https://github.com/kongnanlive/SideBar     
 
-
 **25.An ExpandableRecycleradapter with Recyclerview**                 
 https://github.com/lyxwll/ExpandableRecyclerview    
-
 
 **26.RecyclerView snapping example with SnapHelper**      
 https://github.com/rubensousa/RecyclerViewSnap     
 
-
 **27.带波动效果的索引侧边栏，支持左右手模式和自定义索引**         
 https://github.com/gjiazhe/WaveSideBar            
 
-
 **28.视差效果的 Item 滑动变大**                       
 https://github.com/iielse/RetailMeNotList              
-
 
 **29.Android两级磁贴列表，拥有完美的不同级磁贴互相接触推动的效果，适合多级分类嵌套展示**         
 https://github.com/Kenber/DoubleStickyHeadersList         
@@ -150,7 +145,9 @@ https://github.com/Kenber/DoubleStickyHeadersList
 **30.让 RecyclerView 也支持 fast scroll 效果A ListView-like FastScroller for Android’s RecyclerView.**       
 https://github.com/L4Digital/FastScroll
 
-**31.**
+**31.微笑下拉刷新。这是在 SwipeRefreshLayout基础上修改的下拉刷新库。**        
+https://github.com/songixan/SmileRefresh
+
 **32.**      
 **33.**
 
