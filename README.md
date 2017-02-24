@@ -147,12 +147,12 @@ https://github.com/iielse/RetailMeNotList
 **29.Android两级磁贴列表，拥有完美的不同级磁贴互相接触推动的效果，适合多级分类嵌套展示**         
 https://github.com/Kenber/DoubleStickyHeadersList         
 
-**30.**
+**30.让 RecyclerView 也支持 fast scroll 效果A ListView-like FastScroller for Android’s RecyclerView.**       
+https://github.com/L4Digital/FastScroll
 
-
-
-
-
+**31.**
+**32.**      
+**33.**
 
 
 
